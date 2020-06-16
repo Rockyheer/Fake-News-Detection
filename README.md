@@ -17,4 +17,4 @@ The dataset used was the one curated during 2016 presidential election in US, wh
 
 # Process Flow
 
-
+![Process Flow](http://url/to/img.png)
