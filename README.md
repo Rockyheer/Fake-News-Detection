@@ -29,7 +29,7 @@ conda install -c anaconda scipy
 
 ![Process Flow](https://github.com/Rockyheer/Fake-News-Detection/blob/master/ProcessFlow.png)
 
-##Future steps
+## Future steps
 * Curating a dataset with more features to improve the accuracy of our model.
 * Making the project more userfriendly by deploying it as an efficient GUI.
 * Testing out more algorithms.
