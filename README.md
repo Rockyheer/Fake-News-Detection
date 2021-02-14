@@ -1,7 +1,7 @@
 # Fake-News-Detection
 The project aims at classifying the given news headlines as fake or true 
 Extracted the content of headlines from the given dataset.
-Technology used: Python, Pandas, NumPy, scikit-learn
+Technology used: Python, Pandas, NumPy, scikit-learn, tensorflow.
 
 ## Prerequisite
 What things you need to install the software and how to install them:
@@ -31,5 +31,5 @@ conda install -c anaconda scipy
 
 ## Future steps
 * Curating a dataset with more features to improve the accuracy of our model.
-* Making the project more userfriendly by deploying it as an efficient GUI.
+* Completing the model deployment on heroku, making the project more userfriendly.
 * Testing out more algorithms.
